@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70576383329",
+    "project_id": "saem-29570",
+    "storage_bucket": "saem-29570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70576383329:android:4da8475859d41b31bf9120",
+        "android_client_info": {
+          "package_name": "com.example.graph2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70576383329-f5qpt2p45vu51h8nudqmmoiarbh4sg68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtrz_6OXBgx7AebJFb0rp5LCMdBvaIKfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70576383329-f5qpt2p45vu51h8nudqmmoiarbh4sg68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
