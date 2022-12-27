@@ -8,9 +8,7 @@
 
   - _Since safety accidents occur at unexpected moments, it is important to check the site in real time and take prompt action._ <br/> 
           
-  - _Therefore, this project provides an information provision system that allows managers to check the site in real time._ <br/>   
-  
-  - _Through this, administrator can check the situation in real time anywhere, not limited to places, and respond quickly to problems in the site._ <br/> <br/> <br/>
+  - _Therefore, this project provides an information provision system that allows managers to check the site in real time._ <br/><br/><br/>
  
 ### 3. &nbsp; Real-Time Information Provision System <br/><br/>
 
