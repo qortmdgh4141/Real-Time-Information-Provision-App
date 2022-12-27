@@ -16,7 +16,7 @@
 
   <img src="https://github.com/qortmdgh4141/Intelligent_CCTV_for_Port_Safety/blob/main/image/real-time_information_provision_system.png?raw=true"  width="560"> <br/>
   
-  - _First, after analyzing image data photographed by the CCTV camera, the following information is stored in a database._ <br/> 
+  - _First, after analyzing image data collected through Intelligent CCTV for Port Safety, the following information is stored in a database._ <br/> 
     - Image of the On-Site 
     - The Number of People at the On-Site  
     - Safety Numerical Values at the On-site
@@ -26,6 +26,6 @@
     - Warning and Danger Stage of Event
   
   - _Then, the information stored in the database is provided to the administrator's PC monitor or application in the form of text, image, graph, etc._ <br/>
-    - _You can check the source code and information of the application in the following repository: <br/> https://github.com/qortmdgh4141/Real-time_Information_Provision_App.git_<br/>
+    - _You can check the source code and information of Intelligent CCTV for Port Safety in the following repository: <br/> https://github.com/qortmdgh4141/Intelligent_CCTV_for_Port_Safety.git_ <br/>
     
   - _Through this, administrator can check the situation in real time anywhere, not limited to places, and respond quickly to problems in the site._ <br/> <br/> <br/>
