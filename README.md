@@ -27,3 +27,13 @@
     - _You can check the source code and information of Intelligent CCTV for Port Safety in the following repository: <br/> https://github.com/qortmdgh4141/Intelligent_CCTV_for_Port_Safety.git_ <br/>
     
   - _Through this, administrator can check the situation in real time anywhere, not limited to places, and respond quickly to problems in the site._ <br/> <br/> <br/>
+
+--------------------------
+### 💻 S/W Development Environment
+
+<p>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00CCCC?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=Firebase&logoColor=FFCA28"/>
+    <img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=white"/> 
+</p/>
