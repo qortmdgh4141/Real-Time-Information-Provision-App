@@ -1,7 +1,8 @@
 # 📈 Real-time_Information_Provision_App
 <br/>
 
-### 1. &nbsp; Background of Development <br/> 
+### 1. &nbsp; Background of Development <br/><br/>
+
 - _Recently, CCTV-related technologies have been used in various ways in our daily lives, such as security and safety accident prevention. However, traditional CCTV cameras record more unnecessary information than is needed when a problem occurs. In addition, it is difficult to fully recognize and judge the site only with existing CCTV cameras. The Korea Safety and Health Agency announced that six deaths occurred every year at domestic ports during 2011-2021. It shows the limitations that existing CCTV cameras cannot solve safety accidents and human casualties in domestic ports. In order to solve these limitations, I devised "Intelligent CCTV for Port Safety & Real-Time Information Provision System" that can quickly and accurately respond to dangerous situations while checking the site in real time._ <br/><br/><br/>
 
 ### 2. &nbsp; Project Introduction <br/><br/>
@@ -12,7 +13,7 @@
  
 ### 3. &nbsp; Real-Time Information Provision System <br/><br/>
 
-  <img src="https://github.com/qortmdgh4141/Intelligent_CCTV_for_Port_Safety/blob/main/image/real-time_information_provision_system.png?raw=true"  width="560"> <br/>
+  &nbsp;&nbsp; <img src="https://github.com/qortmdgh4141/Intelligent_CCTV_for_Port_Safety/blob/main/image/real_time_graph.png?raw=true"  width="640"> <br/>
   
   - _First, after analyzing image data collected through Intelligent CCTV for Port Safety, the following information is stored in a database._ <br/> 
     - Image of the On-Site 
@@ -21,7 +22,7 @@
     - Identification Number of People at the On-Site
     - Type of Event
     - Occurrence Time of Event
-    - Warning and Danger Stage of Event
+    - Warning and Danger Stage of Event <br/>
   
   - _Then, the information stored in the database is provided to the administrator's PC monitor or application in the form of text, image, graph, etc._ <br/>
     - _You can check the source code and information of Intelligent CCTV for Port Safety in the following repository: <br/> https://github.com/qortmdgh4141/Intelligent_CCTV_for_Port_Safety.git_ <br/>
