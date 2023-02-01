@@ -1,4 +1,4 @@
-# 📈  Real-time_Information_Provision_App 
+# 📈  Real-time Information Provision App 
 <br/>
  
 ### 1. &nbsp; Background of Development <br/><br/>
